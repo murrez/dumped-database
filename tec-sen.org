@@ -1,0 +1,4 @@
+Target : http://tec-sen.org/haberdetay.aspx?hid=1
+
+kullanici parola
+bilkent  	12345
